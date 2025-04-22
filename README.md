@@ -1,2 +1,2 @@
 # Conference-Database-App
-A final project for my Database Management Systems class. This reflects my thorough understanding of course content and SQL proficiency.
+This is my final project for my CISC332: Database Management Systems class at Queen's University. I completed this in three phases based on the skills and knowledge provided in the course. First, I created an Entity-Relationship (ER) Diagram that reflects the problem given. Next, I translated the diagram to SQL script and inserted test data. Finally, I created a fully functional application using PHP and CSS made for a conference planner client. This project shows my project development skills, ability to meet outlined checkpoints, and attention to detail.
